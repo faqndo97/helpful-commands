@@ -4,6 +4,8 @@
   "description": "CLI tool for access to helpful commands in an easier way.",
   "main": "app.js",
   "scripts": {
+    "lint": "standard",
+    "lintf": "standard --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
