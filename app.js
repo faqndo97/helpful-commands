@@ -2,7 +2,7 @@
 
 'use strict'
 
-function helpfulCommands() {
+function helpfulCommands () {
   console.log('init')
 }
 
