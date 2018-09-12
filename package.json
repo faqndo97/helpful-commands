@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/faqndo97/helpful-commands/issues"
   },
-  "homepage": "https://github.com/faqndo97/helpful-commands#readme"
+  "homepage": "https://github.com/faqndo97/helpful-commands#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
 }
