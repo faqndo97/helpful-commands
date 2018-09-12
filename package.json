@@ -1,0 +1,19 @@
+{
+  "name": "helpfull-commands",
+  "version": "1.0.0",
+  "description": "CLI tool for access to helpful commands in an easier way.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faqndo97/helpful-commands.git"
+  },
+  "author": "Facundo Espinosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faqndo97/helpful-commands/issues"
+  },
+  "homepage": "https://github.com/faqndo97/helpful-commands#readme"
+}
